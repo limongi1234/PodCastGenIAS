@@ -19,7 +19,7 @@ Antes de começar, defina:
 **Para o Título:**
 ```
 Crie 5 títulos atraentes para um podcast sobre [SEU TEMA]. 
-O público-alvo é [DESCREVER PÚBLICO]. 
+O público-alvo é Desenvoldores.
 Os títulos devem ser memoráveis, curiosos e ter no máximo 
 4 palavras.
 ```
@@ -27,7 +27,7 @@ Os títulos devem ser memoráveis, curiosos e ter no máximo
 **Para o Roteiro:**
 ```
 Crie um roteiro detalhado para um episódio de podcast de 
-[X minutos] sobre [TEMA ESPECÍFICO]. Inclua:
+30 minutos sobre Backend. Inclua:
 - Abertura cativante (gancho)
 - Introdução do tema
 - 3-5 pontos principais com exemplos
