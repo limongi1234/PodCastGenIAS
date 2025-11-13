@@ -1,7 +1,5 @@
 # 🎙️ Guia Completo: Criando um Podcast com Ferramentas de IA
 
-Vou te ajudar a criar um podcast profissional usando ferramentas de IA! Vamos dividir isso em etapas práticas:
-
 ## 📋 **1. Planejamento Inicial**
 
 Antes de começar, defina:
